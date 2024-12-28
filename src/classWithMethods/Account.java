@@ -1,7 +1,6 @@
 package classWithMethods;
 import java.util.Scanner;
 
-
 public class Account {
 	
 	public String accountNumber;
@@ -14,7 +13,6 @@ public class Account {
 	   else {
 		   accountNumber = AccountNumber;
 	   }
-	   
 	   
 	   if(Balance < 0) {
 		   System.out.println("balance must be positive");
