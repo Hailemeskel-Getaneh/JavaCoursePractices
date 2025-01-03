@@ -38,6 +38,7 @@ public class TheArrayList {
 				 }
 			  }
 		
+		  // another example using numbers
 	
 		 ArrayList<Integer> numbers = new ArrayList<Integer>();
 		 
@@ -47,10 +48,12 @@ public class TheArrayList {
 		 
 		 int sum = 0;
 		 
+	
+		 
 	 
 		 for (int i = 0; i < numbers.size(); i++) {
 			 
-			 sum = sum + numbers.get(i) ;
+//			 sum = sum + numbers.get(i) ;
 		 }
 		 
 		 System.out.println(" Sum of the list : "  + sum);

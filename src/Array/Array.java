@@ -3,7 +3,8 @@ import java.util.Scanner;
 public class Array {
 
 	public static void main(String[] args) {
-		// arrays are used to store multiple values in a single variable. All the datas should be the same type
+		// arrays are used to store multiple values in a single variable.
+		// All the data should be the same type
 		// They are user defined or reference data types
 		
 		Scanner scanner = new Scanner(System.in);
@@ -28,6 +29,7 @@ public class Array {
 			
 		}
 		
+	
   
 		scanner.close();
 	}
